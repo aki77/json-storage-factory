@@ -8,6 +8,7 @@
     "prepublishOnly": "tsc"
   },
   "author": "aki77",
+  "repository": "https://github.com/aki77/json-storage-factory",
   "license": "ISC",
   "dependencies": {
     "storage-factory": "^0.1.0",
