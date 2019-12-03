@@ -1,0 +1,24 @@
+{
+  "name": "json-storage-factory",
+  "version": "0.1.0",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "tsc"
+  },
+  "author": "aki77",
+  "license": "ISC",
+  "dependencies": {
+    "storage-factory": "^0.1.0",
+    "type-fest": "^0.8.1"
+  },
+  "files": [
+    "README.md",
+    "package.json",
+    "lib"
+  ],
+  "devDependencies": {
+    "typescript": "^3.7.2"
+  }
+}
